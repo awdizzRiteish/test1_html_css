@@ -1,0 +1,62 @@
+1. What is HTML?
+ans-: HTML is a Hypertext markup language which gives structure to websites
+
+2. What is the difference between HTML and HTML5?
+ans-: In Html 5 there is a lot of semantic tags which is responsible for seo 
+
+3. What are semantic tags in HTML?
+ans-: semantic tag in html are like header footer section which is responsible for seo
+
+4. What is the difference between <div> and <span>?
+ans-: div is a block level elemnet span is inline element
+
+5. What is the difference between id and class?
+ans-: id is used for uniqueness and class  is used for common resuable layers and design
+
+6. What are block-level and inline elements?
+ans-: block level element is element which takes full width but inline element do not takes full width and it comes line by line
+
+7. What is the purpose of the alt attribute?
+ans-: alt means alternative text if the images doesnt loads properly
+
+8. What are meta tags?
+ans-: meta tags we provide metadata like charset , viewport etc
+
+9. What is CSS?
+ans-: css is cascading style sheet
+
+10. What are the different ways to apply CSS?
+ans-: inline,internal and external
+
+11. Explain the CSS Box Model.
+ans-: it contains padding margin border content
+
+12. What is the difference between Margin and Padding?
+ans-: Margin creates space outside an element border while padding creates space inside the border between the content and the border
+
+13. What is CSS Specificity?
+ans-: CSS Specificity is the set of rules browsers use to determine which CSS declaration should be applied when multiple rules target the same element
+
+14. What is the difference between display: none and visibility: hidden?
+ans-:display none removes and element and do not occupy space but visibility hidden just hides but occuppy spaces
+
+15. What is the difference between Relative, Absolute, Fixed, and Sticky positioning?
+ans-: Relative- moves from its original position space stays reserved
+    Absolute: removed from normal flow positionedd relative to nearest positioned parent
+    Fixed-- stays fixed to viewport even when page scorlls
+    Sticky: acts relative first then sticks like fixed when scrolling reaches a point
+
+16. What is Flexbox?
+ans-: Flexbox is a box model which helps us to take control to a box using flex proprties
+
+17. What is CSS Grid?
+ans-: css grid is a grid which helps in 2d layout structure
+
+18. What is the difference between Flexbox and Grid?
+ans-: flexbox used for 1d element grid is used for 2d element
+
+19. What is Responsive Web Design
+ans-: Responsive web design means it should be properly structured format whether in mobile laptop or tablet
+
+What are Media Queries?
+ans-: it helps to make website responsive
